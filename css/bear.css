@@ -14,9 +14,5 @@ html {
   }
 }
 
-@media only screen and (max-width: 1360px) {
-  #ostrich {
-    bottom: 200px;
-  }
-}
+
 /* Write your solution here */
