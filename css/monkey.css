@@ -8,5 +8,9 @@ html {
   right: 120px;
 }
 
+@media only screen and (max-width: 406px, min-width: 1170px) {
+  
+}
+
 /* Write your solution here */
 
