@@ -14,4 +14,9 @@ html {
   }
 }
 
+@media only screen and (max-width: 1360px) {
+  #bear {
+    bottom: 200px;
+  }
+}
 /* Write your solution here */
